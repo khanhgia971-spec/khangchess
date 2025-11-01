@@ -4,3 +4,4 @@ git commit -m "First commit"
 git branch -M main
 git remote add origin https://github.com/<username>/khangchess.git
 git push -u origin main
+npm install react-scripts --save
